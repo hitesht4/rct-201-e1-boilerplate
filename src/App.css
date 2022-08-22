@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+.Lists{
+  width:75%;
+  margin:auto;
+  display: flex;
+  padding:30px;
+  gap:150px;
+}
+.Lists button,input{
+  padding:10px;
+  margin-left: 8px;
+}
+.Clock{
+  width:600px;
+  margin-top: 50px;
+  margin: auto;
+  font-size: 30px;
+  font-weight: bold;
+}
+.flex{
+  display: flex;
+  justify-content: center;
+  gap:5px;
+}
