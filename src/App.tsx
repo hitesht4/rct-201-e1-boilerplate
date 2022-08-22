@@ -9,7 +9,7 @@ function App() {
     <div className="App">
       {/* Clock */}
       <div className="Clock">
-      <Clock/>
+      <Clock label="24 Hour Live Custom Component Clock"/>
       </div>
       {/* List 1  initialValues [1, 2, 3] */}
       <div className="Lists">
